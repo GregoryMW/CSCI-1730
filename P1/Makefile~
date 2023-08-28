@@ -1,0 +1,8 @@
+playCraps: playCraps.o wager.o
+	gcc -g -Wall -o playCraps playCraps.o wager.o
+
+%.o: %.c
+	gcc -c -Wall -o %@ $<
+
+clean:
+	rm -f *.o playCraps

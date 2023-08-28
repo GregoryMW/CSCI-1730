@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <fcntl.h>
+#include <unistd.h>
+//int main(int argc, char *argv[])
+
+int main()
+{
+  char *c = (char *)malloc(1000);
+  int fd = open("moby10b.txt", O_RDONLY);
+
+  int i = 1;
+  while (c[i] != EOF)
+    {
+      i ++;
+    }
+  read(fd, c, i);
+  printf("%s\n", c);
+  close(fd);
+  exit(0);
+}

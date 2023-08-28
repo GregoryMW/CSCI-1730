@@ -1,0 +1,18 @@
+Challenge C-1
+100
+
+Challenge C-2
+Array 1
+7
+3
+1
+5
+9
+Array 2
+11
+3
+13
+9
+7
+1
+5

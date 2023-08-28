@@ -1,0 +1,14 @@
+P5:
+total 1340
+-rw-r--r--. 1 myid 1304012 May  5 22:08 dictionary.txt
+-rw-r--r--. 1 myid     497 May  5 22:01 hangman.cpp
+-rw-r--r--. 1 myid    4287 May  5 22:57 helper.cpp
+-rw-r--r--. 1 myid      64 May  5 22:03 helper.h
+-rw-r--r--. 1 myid     236 May  5 17:38 Makefile
+-rw-r--r--. 1 myid     607 May  5 22:14 README.txt
+-rw-r--r--. 1 myid       0 May  5 22:58 rec8983
+-rw-r--r--. 1 myid    6173 May  5 22:08 words-1000.txt
+-rw-r--r--. 1 myid   18414 May  5 22:08 words-2000.txt
+-rw-r--r--. 1 myid    4557 May  5 18:46 words-500.txt
+-rw-r--r--. 1 myid      54 May  5 22:08 words-9.txt
+/home/myid/gmw30589/1730/P5:/home/myid/csci-1730

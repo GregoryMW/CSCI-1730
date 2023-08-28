@@ -1,0 +1,59 @@
+Lab07d:
+total 2612
+drwxr-xr-x. 4 myid      40 Mar 17 12:42 hal
+drwxr-xr-x. 3 myid      17 Mar 17 12:42 helen
+-rw-r--r--. 1 myid 1173821 Mar 17 14:47 LabMe1.png
+-rw-r--r--. 1 myid 1068195 Mar 18 12:20 LabMeFinal.png
+-rw-r--r--. 1 myid  138911 Mar 17 14:47 LabProgress1st.png
+-rw-r--r--. 1 myid  138048 Mar 18 12:15 LabProgressFinal.png
+-rwxr-xr-x. 1 myid   19344 Mar 17 12:42 listdir
+-rw-r--r--. 1 myid     481 Mar 17 12:42 listdir.c
+-rw-r--r--. 1 myid     413 Mar 17 12:42 Makefile
+-rw-r--r--. 1 myid     373 Mar 17 12:42 Makefile.old
+-rwxr-xr-x. 1 myid   12656 Mar 17 13:01 myls
+-rw-r--r--. 1 myid    3180 Mar 17 12:42 myls.c
+-rw-r--r--. 1 myid    7608 Mar 17 13:01 myls.o
+-rwxr-xr-x. 1 myid   17040 Mar 21 22:53 mynewls
+-rw-r--r--. 1 myid    3797 Mar 21 22:52 mynewls.c
+-rw-r--r--. 1 myid    3795 Mar 21 22:52 mynewls.c~
+-rw-r--r--. 1 myid    8672 Mar 21 22:53 mynewls.o
+-rw-r--r--. 1 myid    1484 Mar 17 12:42 permissionbits.c
+-rw-r--r--. 1 myid      90 Mar 17 12:42 permissionbits.h
+-rw-r--r--. 1 myid    5184 Mar 17 12:42 permissionbits.o
+-rw-r--r--. 1 myid       0 Mar 17 12:42 README.txt
+-rw-r--r--. 1 myid       0 Mar 21 22:59 rec21432
+-rw-r--r--. 1 myid    1798 Mar 18 12:21 rec3318
+-rw-r--r--. 1 myid    1634 Mar 17 14:47 rec942
+-rwxr-xr-x. 1 myid   17632 Mar 17 12:42 unlinktemp
+-rw-r--r--. 1 myid     359 Mar 17 12:42 unlinktemp.c
+
+Lab07d/hal:
+total 0
+drwxr-xr-x. 3 myid 25 Mar 17 12:42 ian
+drwxr-xr-x. 3 myid 26 Mar 17 12:42 ivy
+
+Lab07d/hal/ian:
+total 0
+drwxr-xr-x. 2 myid 10 Mar 17 12:42 jeb
+
+Lab07d/hal/ian/jeb:
+total 0
+
+Lab07d/hal/ivy:
+total 0
+drwxr-xr-x. 2 myid 6 Mar 17 12:42 jake
+
+Lab07d/hal/ivy/jake:
+total 0
+
+Lab07d/helen:
+total 0
+drwxr-xr-x. 3 myid 26 Mar 17 12:42 ida
+
+Lab07d/helen/ida:
+total 0
+drwxr-xr-x. 2 myid 6 Mar 17 12:42 jose
+
+Lab07d/helen/ida/jose:
+total 0
+/home/myid/gmw30589/1730/Lab7/Lab07d:/home/myid/csci-1730

@@ -1,0 +1,18 @@
+FEP:
+total 28
+-rw-r--r--. 1 myid 1312 May 10 18:33 FP_A.cpp
+-rw-r--r--. 1 myid 1136 May 10 15:30 FP_B.c
+-rw-r--r--. 1 myid 4674 May 10 19:08 FP_C.cpp
+-rw-r--r--. 1 myid 1345 May 10 18:30 FP_D.cpp
+-rw-r--r--. 1 myid  244 May 10 16:52 Makefile
+-rw-r--r--. 1 myid  744 May 10 20:06 README.txt
+-rw-r--r--. 1 myid    0 May 10 20:41 rec24305
+drwxr-xr-x. 2 myid  110 May 10 20:10 TestingFiles
+
+FEP/TestingFiles:
+total 16
+-rw-r--r--. 1 myid 26 May 10 16:01 FP_A_Test.txt
+-rw-r--r--. 1 myid 24 May 10 20:10 FP_B_Test.txt
+-rw-r--r--. 1 myid 75 May 10 18:37 FP_C_Test.txt
+-rw-r--r--. 1 myid 26 May 10 16:07 FP_D_Test.txt
+/home/myid/gmw30589/1730/FEP:/home/myid/csci-1730

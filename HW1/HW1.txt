@@ -1,0 +1,9 @@
+1a. I have not programmed in C specifically, but I did use C++ when I took CSCI 1730 in the fall 2020 semester but withdrew from the class due to difficulties with the teaching structure of the class that semester.
+
+1b. Github is a website that uses Git to allow users to host their code-based projects. It also allows the creators, and those they want to give the ability to edit the code, to update their code on the site using Git-based commands.
+
+1c. Yes, I have used Github in the past. Mainly for CSCI 1302 here at UGA.
+
+1d. Yes, I do have a Github account.
+
+1e. A compiler takes the given source code, and translates it into machine-language that can be read by the computer, and executes the program and any instructions included within it.

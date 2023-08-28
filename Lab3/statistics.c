@@ -1,0 +1,56 @@
+#include <limits.h>
+
+double numbers_sum(int numSum)
+{
+  static double sum_numbers = 0;
+  sum_numbers += (double)numSum;
+  return sum_numbers;
+}
+
+double numbers_average(int numAvg)
+{
+  static double total_numbers = 0;
+  static double total_sum = 0;
+
+  total_sum = total_sum + (double) numAvg;
+  total_numbers += 1;
+
+  return total_sum / total_numbers; 
+}
+
+double numbers_squares(int numSquare)
+{
+  static double sum_numbers = 0;
+  sum_numbers += ((double)numSquare * (double)numSquare);
+  return sum_numbers;
+}
+
+double numbers_variance(int numVar)
+{
+  //I was unable to complete this function as I could not figure out how to calculate the population variance over a running average. I tried various methods of arrays, lists, etc. and
+  //I was unable to get this function properly working. This was not taught in class, and I hope that this class does not turn into a "well the only thing I can do now is just Google it."
+  //Even then I was unable to find a proper answer that doesn't involve extremely advanced algorithmic equations. This was a reason I had to withdraw form CSCI 1730 last semester, and I hope
+  //I don't have to it again this semester.
+
+  return 0;
+}
+
+int numbers_min(int numMin)
+{
+  static int min = INT_MAX;
+  if (numMin < min)
+    {
+      min = numMin;
+    }
+  return min;
+}
+
+int numbers_max(int numMax)
+{
+  static int max = -1;
+  if (numMax > max)
+    {
+      max = numMax;
+    }
+  return max;
+}

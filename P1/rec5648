@@ -1,0 +1,14 @@
+P1/:
+total 40
+-rw-r--r--. 1 myid  231 Feb 22 13:31 Makefile
+-rw-r--r--. 1 myid  140 Feb 22 13:26 Makefile~
+-rw-r--r--. 1 myid 1267 Feb 21 19:58 playCraps.c
+-rw-r--r--. 1 myid 1155 Feb 21 19:56 playCraps.c~
+-rw-r--r--. 1 myid 1019 Feb 22 13:40 README.txt
+-rw-r--r--. 1 myid   29 Feb 22 13:35 README.txt~
+-rw-r--r--. 1 myid    0 Feb 22 13:43 rec5648
+-rw-r--r--. 1 myid 2924 Feb 22 13:21 wager.c
+-rw-r--r--. 1 myid 2926 Feb 22 13:20 wager.c~
+-rw-r--r--. 1 myid  242 Feb 21 18:45 wager.h
+-rw-r--r--. 1 myid  250 Feb 21 18:16 wager.h~
+/home/myid/gmw30589/1730/P1/:/home/myid/csci-1730

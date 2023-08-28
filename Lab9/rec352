@@ -1,0 +1,23 @@
+Lab9:
+total 328
+-rw-r--r--. 1 myid    551 Mar 31 12:42 forking.c
+-rw-r--r--. 1 myid     75 Mar 31 12:42 goggamal-input.txt
+-rwxr-xr-x. 1 myid  10576 Mar 31 13:08 goggamal-solution
+-rw-r--r--. 1 myid   1876 Mar 31 12:42 goggamal-solution.c
+-rw-r--r--. 1 myid  87242 Mar 31 14:53 LabMe1st.png
+-rw-r--r--. 1 myid 120260 Mar 31 14:50 LabProgress1st.png
+-rwxr-xr-x. 1 myid   9448 Mar 31 13:08 longProgram
+-rw-r--r--. 1 myid    343 Mar 31 12:42 longProgram.c
+-rw-r--r--. 1 myid   3744 Mar 31 13:08 longProgram.o
+-rw-r--r--. 1 myid    685 Mar 31 13:24 Makefile
+-rw-r--r--. 1 myid      0 Mar 31 14:53 rec352
+-rwxr-xr-x. 1 myid  10800 Mar 31 13:08 talk-to
+-rw-r--r--. 1 myid   1593 Mar 31 12:42 talk-to.c
+-rw-r--r--. 1 myid   6208 Mar 31 13:08 talk-to.o
+-rwxr-xr-x. 1 myid  10792 Mar 31 13:08 task1
+-rw-r--r--. 1 myid   1602 Mar 31 13:04 task1.c
+-rw-r--r--. 1 myid   6208 Mar 31 13:08 task1.o
+-rwxr-xr-x. 1 myid  11656 Mar 31 13:53 task2
+-rw-r--r--. 1 myid   2287 Mar 31 13:53 task2.c
+-rw-r--r--. 1 myid   8112 Mar 31 13:53 task2.o
+/home/myid/gmw30589/1730/Lab9:/home/myid/csci-1730

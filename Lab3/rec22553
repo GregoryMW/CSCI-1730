@@ -1,0 +1,35 @@
+Lab3:
+total 2316
+-rw-r--r--. 1 myid    1504 Feb  6 19:27 getInput.c
+-rw-r--r--. 1 myid    1507 Feb  6 19:27 getInput.c~
+-rw-r--r--. 1 myid    7776 Feb  6 19:33 getInput.o
+-rw-r--r--. 1 myid      13 Feb  3 12:42 input03.txt
+-rw-r--r--. 1 myid      13 Feb  3 12:42 input04.txt
+-rw-r--r--. 1 myid     283 Feb  3 12:42 input100.txt
+-rw-r--r--. 1 myid      33 Feb  3 12:42 input10.txt
+-rw-r--r--. 1 myid      64 Feb  3 12:42 input21.txt
+-rw-r--r--. 1 myid 1941961 Feb  6 19:38 Lab3me2.png
+-rw-r--r--. 1 myid   89859 Feb  6 19:38 Lab3progress2.png
+-rw-r--r--. 1 myid   97006 Feb  3 13:46 LabMe.png
+-rw-r--r--. 1 myid   97610 Feb  3 13:46 LabProgress.png
+-rwxr-xr-x. 1 myid    9448 Feb  6 19:33 longProgram
+-rw-r--r--. 1 myid     343 Feb  3 12:42 longProgram.c
+-rw-r--r--. 1 myid     435 Feb  3 12:43 Makefile
+-rw-r--r--. 1 myid     435 Feb  3 12:43 Makefile0
+-rw-r--r--. 1 myid     960 Feb  3 13:36 Makefile1
+-rw-r--r--. 1 myid     967 Feb  3 13:14 #Makefile1#
+-rw-r--r--. 1 myid     960 Feb  3 13:34 Makefile1~
+-rw-r--r--. 1 myid     680 Feb  6 16:26 Makefile2
+-rw-r--r--. 1 myid     692 Feb  6 16:25 Makefile2~
+-rw-r--r--. 1 myid     130 Feb  3 12:42 README.txt
+-rw-r--r--. 1 myid    1310 Feb  3 13:47 rec21988
+-rw-r--r--. 1 myid       0 Feb  6 19:38 rec22553
+-rwxr-xr-x. 1 myid   12944 Feb  6 19:33 runProgram
+-rw-r--r--. 1 myid      52 Feb  3 12:42 runProgram.c
+-rw-r--r--. 1 myid    2672 Feb  6 19:33 runProgram.o
+-rw-r--r--. 1 myid    1421 Feb  6 19:33 statistics.c
+-rw-r--r--. 1 myid    1408 Feb  6 19:32 statistics.c~
+-rw-r--r--. 1 myid     433 Feb  6 19:22 statistics.h
+-rw-r--r--. 1 myid     476 Feb  6 18:46 statistics.h~
+-rw-r--r--. 1 myid    5568 Feb  6 19:33 statistics.o
+/home/myid/gmw30589/1730/Lab3:/home/myid/csci-1730
